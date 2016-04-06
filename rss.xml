@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Paulo]]></title>
+        <description><![CDATA[Paulo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 13:56:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hola mundo 2</p>]]></description>
+            <link>undefinedhola-mundo-2/index.html</link>
+            <guid isPermaLink="false">6f511115-5438-4da1-b178-175bb25cd586</guid>
+            <pubDate>Wed, 06 Apr 2016 13:56:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
